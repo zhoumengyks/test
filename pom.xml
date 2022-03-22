@@ -25,8 +25,8 @@
     </dependencies>
 	    <dependencies>
         <dependency>
-            <groupId>com.faster</groupId>
-            <artifactId>jackson.core:jackson-databind</artifactId>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
             <version>2.6.4</version>
         </dependency>
     </dependencies>
