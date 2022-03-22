@@ -24,13 +24,6 @@
         </dependency>
 
     </dependencies>
-	 <dependencies>
-		   <dependency>
-        <groupId>redis.clients</groupId>
-            <artifactId>jedis</artifactId>
-            <version>2.1.0</version>
-			     <dependency>
-    </dependencies>
 	 
     <build>
         <plugins>
